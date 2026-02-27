@@ -26,10 +26,3 @@
   <img src="https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql" />
 </p>
-
----
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=satvikh&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" />
-  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satvikh&layout=compact&theme=github_dark&hide_border=true" />
-</p>
