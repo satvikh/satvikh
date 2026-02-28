@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satvikh&style=flat-square&color=lightgrey&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=satvikh&style=flat-square&color=blueviolet&label=profile+views" />
 </p>
 
 ---
