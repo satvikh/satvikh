@@ -1,4 +1,4 @@
-<h1 align="center">Satvik Hegde</h1>
+<h1 align="center">Satvik (Vik) Hegde</h1>
 <p align="center">
   Computer Science • Applied Mathematics
 </p>
