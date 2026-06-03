@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satvikh">LinkedIn</a> |
-  <a href="https://satvikh.vercel.app/">Website</a> |
+  <a href="https://satvikh.com/">Website</a> |
   <a href="mailto:satvikh05@gmail.com">satvikh05@gmail.com</a>
 </p>
 
